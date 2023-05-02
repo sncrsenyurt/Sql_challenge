@@ -34,6 +34,6 @@ To complete the challenge, I wrote the following SQL queries:
 
 Overall, I enjoyed working on this SQL challenge and learned a lot about writing SQL queries to extract information
 
-### Here is my DBD 
+### Here is my DataBase Diagram
 ![QuickDBD-export](https://user-images.githubusercontent.com/35157651/235561443-155f576c-87a5-40fc-8975-f05dfb9a1472.png)
 
